@@ -7,5 +7,9 @@ h3{
 }
 
 p{
-    color: aqua;
+    color: aqua; 
+}
+h2{
+    background-color: yellow;
+    color: blue;
 }
